@@ -1,4 +1,4 @@
-# Mechanical Design Project: HVAC System for Four Residential House Layouts 
+# Mechanical Design Project: HVAC Systems
 
 ### Project Overview
 This project involves the design and implementation of a Heating, Ventilation, and Air Conditioning (HVAC) system for four distinct residential house layouts. Utilizing Autodesk AutoCAD and Revit MEP, we will create detailed and efficient HVAC designs tailored to each house's specific requirements. 
